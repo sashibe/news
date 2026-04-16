@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+**/.env.local
+*.log
+dist/
+.firebase/
+firebase-debug.log
+serviceAccountKey.json
+
+# zip archives
+*.zip
+
+# Next.js build output
+frontend/.next/
+frontend/out/
+
